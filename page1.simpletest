@@ -1,0 +1,92 @@
+﻿[Test]
+Programm=SimpleTest
+Version=0.1
+TestName=Проверьте свои знания базовых глаголов английского языка прямо сейчас!
+Author=Алина Жакабаева
+MessageOnComplete=Тест завершен!
+AllowFinish=0
+ShowResult=1
+DisableOpenTest=1
+ExitOnComplete=0
+LastQ=9
+
+[Q0]
+QLabel=1. What does the verb “eat” mean?
+LastA=3
+A0=a) пить
+A1=*b) есть
+A2=c) спать
+A3=d) готовить
+
+[Q1]
+QLabel=2. Какой глагол означает “работать”?
+LastA=3
+A0=a) walk
+A1=*b) work
+A2=c) want
+A3=d) wait
+
+[Q2]
+QLabel=3. I usually ___ coffee in the morning.<br/><br/>
+LastA=3
+A0=a) eat
+A1=b) make
+A2=*c) drink
+A3=d) cook
+
+[Q3]
+QLabel=4. They ___ early on weekdays.<br/><br/>
+LastA=3
+A0=a) wake
+A1=b) sleep
+A2=*c) get up
+A3=d) lie
+
+[Q4]
+QLabel=5. Какой глагол означает “читать”?
+LastA=3
+A0=a) write
+A1=*b) read
+A2=c) see
+A3=d) watch
+
+[Q5]
+QLabel=6. Merey ___ a lot of books every month.
+LastA=3
+A0=*a) reads
+A1=b) looks
+A2=c) watches
+A3=d) says
+
+[Q6]
+QLabel=7. Какой глагол означает “смотреть (телевизор)”?
+LastA=3
+A0=a) see
+A1=b) look
+A2=*c) watch
+A3=d) view
+
+[Q7]
+QLabel=8. We ___ homework after dinner.
+LastA=3
+A0=a) make
+A1=*b) do
+A2=c) take
+A3=d) play
+
+[Q8]
+QLabel=9. Какой глагол означает “готовить”?
+LastA=3
+A0=a) clean
+A1=*b) cook
+A2=c) catch
+A3=d) come
+
+[Q9]
+QLabel=10. Aruzhan ___ breakfast at 8 a.m.
+LastA=3
+A0=a) have
+A1=*b) has
+A2=c) haves
+A3=d) having
+
