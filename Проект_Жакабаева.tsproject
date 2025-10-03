@@ -10,8 +10,11 @@ KeyWords=Учебник, English for beginners, Verbs, Английский яз
 Description=Электронный учебник "250+ Essential Verbs in English" - сборник глаголов в английском языке
 
 [FTP]
-Dir=/
+Dir=/html
 Passive=1
+Host=https://7alinazhakabaeva-alt.github.io/zhakabaeva-electronicbook/
+Login=7alinazhakabaeva@gmail.com
+NoDeleteFiles=1
 
 [pages]
 index=Главная
